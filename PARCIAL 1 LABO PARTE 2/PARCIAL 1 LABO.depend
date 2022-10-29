@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1666399078 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\aerolinea.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aerolinea.h"
+
+1666389602 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\destino.c
+
+1666390165 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\fecha.c
+
+1666399001 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1666399480 d:\programacion 1 2022\2 cuatri\parcial 1 labo\mibiblioteca.h
+
+1666398979 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1666399623 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\avion.c
+	"avion.h"
+
+1666399014 d:\programacion 1 2022\2 cuatri\parcial 1 labo\avion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+	"aerolinea.h"
+	"tipo.h"
+
+1666399099 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miBiblioteca.h"
+	"avion.h"
+
+1666395457 d:\programacion 1 2022\2 cuatri\parcial 1 labo\aerolinea.h
+
+1666391313 d:\programacion 1 2022\2 cuatri\parcial 1 labo\tipo.h
+
+1666399078 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\aerolinea.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aerolinea.h"
+
+1666395457 d:\programacion 1 2022\2 cuatri\parcial 1 sr\aerolinea.h
+
+1666940039 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\avion.c
+	"avion.h"
+
+1666827893 d:\programacion 1 2022\2 cuatri\parcial 1 sr\avion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+	"aerolinea.h"
+	"destino.h"
+	"tipo.h"
+
+1666839103 d:\programacion 1 2022\2 cuatri\parcial 1 sr\mibiblioteca.h
+
+1666391313 d:\programacion 1 2022\2 cuatri\parcial 1 sr\tipo.h
+
+1666829600 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destino.h"
+
+1666758524 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\fecha.c
+
+1666398979 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1666941475 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miBiblioteca.h"
+	"avion.h"
+	"vuelo.h"
+	"informes.h"
+
+1666839114 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1666829553 d:\programacion 1 2022\2 cuatri\parcial 1 sr\destino.h
+	"avion.h"
+
+1666758525 d:\programacion 1 2022\2 cuatri\parcial 1 sr\fecha.h
+
+1666928091 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\vuelo.c
+	"vuelo.h"
+	"destino.h"
+
+1666845249 d:\programacion 1 2022\2 cuatri\parcial 1 sr\vuelo.h
+	"fecha.h"
+	"avion.h"
+
+1666941690 source:d:\programacion 1 2022\2 cuatri\parcial 1 sr\informes.c
+	"informes.h"
+
+1666941360 d:\programacion 1 2022\2 cuatri\parcial 1 sr\informes.h
+	"vuelo.h"
+	"avion.h"
+
+1666399078 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\aerolinea.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aerolinea.h"
+
+1667002171 d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\aerolinea.h
+
+1666940039 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\avion.c
+	"avion.h"
+
+1667003086 d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\avion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+	"aerolinea.h"
+	"destino.h"
+	"tipo.h"
+
+1667001678 d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\mibiblioteca.h
+
+1667002043 d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\destino.h
+	"avion.h"
+
+1667001575 d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\tipo.h
+
+1666829600 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destino.h"
+
+1666758524 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\fecha.c
+
+1667003532 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\informes.c
+	"informes.h"
+
+1666998165 d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\informes.h
+	"vuelo.h"
+	"avion.h"
+
+1667003128 d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\vuelo.h
+	"fecha.h"
+	"avion.h"
+
+1666758525 d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\fecha.h
+
+1667003442 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miBiblioteca.h"
+	"avion.h"
+	"vuelo.h"
+	"informes.h"
+
+1667003320 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1666398979 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1666998570 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo parte 2\vuelo.c
+	"vuelo.h"
+	"destino.h"
+
